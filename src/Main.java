@@ -5,7 +5,6 @@ public class Main {
         System.out.println("Whats up dog");
         System.out.println("How does Marvel know so much about git?");
         System.out.println("It's my job, *Insert Marvel Noises*");
-        System.out.println("Aur aur aur ur ur ur ur");
-
+        System.out.println("now we are both editing the same print statement at the same time Wow!");
     }
 }
