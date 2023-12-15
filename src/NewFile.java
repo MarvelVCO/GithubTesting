@@ -10,4 +10,7 @@ public class NewFile {
             System.out.println("y");
         }
     }
+    public void aurAur() {
+        System.out.println("Aur aur aur, ur ur ur, aur ur aur ur ur ur");
+    }
 }
